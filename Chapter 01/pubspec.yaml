@@ -1,0 +1,31 @@
+# This is just an example of how to add fonts to your Flutter project,
+# Don't use this file in your project as it is.
+# Running this file will cause an error this project is not a valid Flutter project.
+name: my_flutter_app
+description: A new Flutter application
+version: 1.0.0
+
+environment:
+  sdk: ">=2.12.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  http: ^0.13.3
+  provider: ^5.0.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  assets:
+    - assets/images/
+    - assets/sounds/
+
+  fonts:
+    - family: Raleway
+      fonts:
+        - asset: fonts/Raleway-Regular.ttf
+        - asset: fonts/Raleway-Bold.ttf
+          weight: 700
