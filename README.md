@@ -1,2 +1,2 @@
-# Flutter Solutions for Web Developers
- Flutter Solutions for Web Developers, by BPB Publications
+# Flutter Solutions for Web Development
+ Flutter Solutions for Web Development, by BPB Publications
